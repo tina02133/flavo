@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/flavo/static/css/main.20830510.css",
+    "main.js": "/flavo/static/js/main.8e52a483.js",
+    "static/js/787.affa5bbf.chunk.js": "/flavo/static/js/787.affa5bbf.chunk.js",
+    "static/media/hazelnut-jam.jpg": "/flavo/static/media/hazelnut-jam.9fd6535d98cc7ceb1a62.jpg",
+    "static/media/Mango-jam.jpg": "/flavo/static/media/Mango-jam.c60ef62b41ea4e228c51.jpg",
+    "static/media/flower.png": "/flavo/static/media/flower.58b47c42e217b8369df7.png",
+    "static/media/gift-set.jpg": "/flavo/static/media/gift-set.e3894135c82efa0b0c3f.jpg",
+    "static/media/apple-jam.jpg": "/flavo/static/media/apple-jam.86ef40f43069c1cf6a28.jpg",
+    "static/media/roll2.jpg": "/flavo/static/media/roll2.86ef40f43069c1cf6a28.jpg",
+    "static/media/strawberry.jpg": "/flavo/static/media/strawberry.2c7f06f0c80ea4df43ac.jpg",
+    "static/media/redmango-jam.jpg": "/flavo/static/media/redmango-jam.a8951e3302bf23aeba7c.jpg",
+    "static/media/jam-trio-gift-set.jpg": "/flavo/static/media/jam-trio-gift-set.260ace6e79b41b634948.jpg",
+    "static/media/Blackberry-Jam.jpeg": "/flavo/static/media/Blackberry-Jam.f32ef69c57ba8e0607a6.jpeg",
+    "static/media/pineapple-jam.jpg": "/flavo/static/media/pineapple-jam.8c177172d58bceed13c3.jpg",
+    "static/media/kaya-jam.jpg": "/flavo/static/media/kaya-jam.df5e0b92133c23a2070b.jpg",
+    "index.html": "/flavo/index.html",
+    "main.20830510.css.map": "/flavo/static/css/main.20830510.css.map",
+    "main.8e52a483.js.map": "/flavo/static/js/main.8e52a483.js.map",
+    "787.affa5bbf.chunk.js.map": "/flavo/static/js/787.affa5bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20830510.css",
+    "static/js/main.8e52a483.js"
+  ]
+}
